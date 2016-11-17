@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data
 {
-    class Team
+    public class Team
     {
         public int Id { get; set; }
 

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sport", "Sport\Sport.csproj", "{CB97F4E4-094C-4151-A295-98AC1B63F31F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sport.UI", "Sport\Sport.UI.csproj", "{CB97F4E4-094C-4151-A295-98AC1B63F31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sport.Data", "Data\Sport.Data.csproj", "{909168E3-6D00-414F-8382-26FB3ADBD8E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CB97F4E4-094C-4151-A295-98AC1B63F31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB97F4E4-094C-4151-A295-98AC1B63F31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB97F4E4-094C-4151-A295-98AC1B63F31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909168E3-6D00-414F-8382-26FB3ADBD8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909168E3-6D00-414F-8382-26FB3ADBD8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909168E3-6D00-414F-8382-26FB3ADBD8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909168E3-6D00-414F-8382-26FB3ADBD8E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
